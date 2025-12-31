@@ -7,9 +7,7 @@
 
 
 ### 📬 Contact
-<a href="mailto:bexemen@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
+bexemen@gmail.com
 
 ---
 
