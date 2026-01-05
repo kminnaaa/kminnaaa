@@ -41,7 +41,7 @@ bexemen@gmail.com
 <br>
 
 
-## 🧑‍💻 Experiences
+## 🧑‍💻 Experience
 
 | 활동명 | 기간 |
 | :---: | :---: |
