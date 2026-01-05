@@ -37,6 +37,21 @@ bexemen@gmail.com
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
+**🏃‍♀️ Currently learning ...** &ensp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+
+<br>
+
+
+## 🌱 Projects
+
+| 프로젝트명 | 기간 |
+| :---: | :---: |
+| **조각집: 커뮤니티 서비스** | 2025.01 - 2025.02 |
+| **AMP chat: 놀이공원 내 직원간 채팅 서비스** | 2024.11 |
+| **Coo-Kiosk: 키오스크 서비스** | 2023.10 |
 
 <br>
 
