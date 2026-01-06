@@ -79,6 +79,7 @@ bexemen@gmail.com
 <br>
 
 ### Fun Facts ... 👾
+![1000036841-1](https://github.com/user-attachments/assets/a80118eb-ba15-44d7-b5f3-75ec9521f9eb)
 🚶‍♀️    
-🎾    
+🎾      
 📚  
