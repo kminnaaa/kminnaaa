@@ -15,7 +15,7 @@ bexemen@gmail.com
 
 ## 💡Core Values
 
-💭 오늘보다 나은 내일을 위해 노력하는 개발자 <br>
+💭 오늘보다 나은 내일을 위해 함께 노력하는 개발자 <br>
 💭 새로운 아이디어를 소통과 협업으로 실현하는 개발자 <br>
 💭 사용자의 관점에서 고민하는 개발자<br>
 <br>
@@ -49,7 +49,7 @@ bexemen@gmail.com
 
 | 프로젝트명 | 기간 |
 | :---: | :---: |
-| **조각집: 커뮤니티 서비스** | 2025.01 - 2025.02 |
+| **조각집: 사진 공유 커뮤니티 서비스** | 2025.01 - 2025.02 |
 | **AMP chat: 놀이공원 내 직원간 채팅 서비스** | 2024.11 |
 | **Coo-Kiosk: 키오스크 서비스** | 2023.10 |
 
@@ -76,3 +76,10 @@ bexemen@gmail.com
 
 ### 🌟 solved.ac (Baekjoon Stats)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bexemen)
+
+<br>
+
+### Fun Facts ... 👾
+🚶‍♀️    
+🎾    
+📚  
