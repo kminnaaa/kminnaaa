@@ -67,7 +67,7 @@ bexemen@gmail.com
 
 ## 🪪 Certifications
 
-- **TOEIC 955** (2023)
+- **OPIc** (2026)
 
 <br>
 
