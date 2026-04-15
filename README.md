@@ -13,11 +13,6 @@ bexemen@gmail.com
 
 
 
-## 💡Core Values
-💭 소통과 협업을 통해 지속적인 발전을 추구하는 개발자 <br>
-💭 사용자의 관점에서 고민하는 개발자<br>
-<br>
-
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -39,17 +34,6 @@ bexemen@gmail.com
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-
-<br>
-
-
-## 🌱 Projects
-
-| 프로젝트명 | 기간 |
-| :---: | :---: |
-| **조각집: 사진 공유 커뮤니티 서비스** | 2025.01 - 2025.02 |
-| **AMP chat: 놀이공원 내 직원간 채팅 서비스** | 2024.11 |
-| **Coo-Kiosk: 키오스크 기능 구현** | 2023.7 |
 
 <br>
 
