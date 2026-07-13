@@ -15,9 +15,10 @@ bexemen@gmail.com
 
 ## 🛠️ Tech Stack
 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -32,18 +33,7 @@ bexemen@gmail.com
 
 **🏃‍♀️ Currently learning ...** &ensp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-
-<br>
-
-
-## 🧑‍💻 Experience
-
-| 활동명 | 기간 |
-| :---: | :---: |
-| **신한투자증권 프로디지털아카데미 7기** | 2025.12 - 2026.07 |
-| **코드잇 부스트 1기 백엔드 파트** | 2024.09 - 2025.02 |
 
 <br>
 
