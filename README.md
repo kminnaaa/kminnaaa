@@ -32,7 +32,7 @@ bexemen@gmail.com
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 **🏃‍♀️ Currently learning ...** &ensp;
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
 
 
 <br>
