@@ -1,4 +1,4 @@
-# Hi there! I'm Minha 👻
+## Hi there! I'm Minha 👻
 
 **🚀 Backend Engineer <br>
 ❄️ Sookmyung Women's University <br>**
@@ -13,7 +13,7 @@ bexemen@gmail.com
 
 
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
